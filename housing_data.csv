@@ -1,0 +1,11 @@
+area_sqft,bedrooms,bathrooms,age_years,location_score,label
+850,2,1,10,3,Low
+1200,3,2,5,4,Medium
+1500,3,2,20,4,Medium
+2000,4,3,15,5,High
+2500,4,3,7,5,High
+3000,5,4,30,3,Low
+3500,5,4,25,2,Low
+4000,6,5,40,4,High
+4500,6,5,35,3,Medium
+5000,7,6,50,5,High
